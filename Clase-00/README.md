@@ -24,6 +24,7 @@ Hoy hablamos sobre los objetos y repasamos el texto $${\color{red}"La-Tercera-Me
  - ***Bolso magico de doraemon***
  - ***Friki***
  - ***Dulcero***
+ - ***Sabio en crecimiento***
 
 ## - [ ] Revisar el texto "La estetica como cosmologia"
 
