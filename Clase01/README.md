@@ -3,7 +3,7 @@
 ## Apuntes de la clase.
 Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para entender el ramo.
 
-## Tarea 2 Objetos y 10 Cualidades por cada objeto
+## [x] Tarea 2 Objetos y 10 Cualidades por cada objeto
 
 ## $${\color{purple}PrimerObjeto}$$
 
