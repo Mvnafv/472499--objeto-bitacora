@@ -3,8 +3,6 @@
 ### Bitacora Manuel
 Con el fin de subir mis trabajos de la universidad y sus avances.
 
-![](./Gato hablando.gif)
-
 ### Vinculo para recordar los signos en la escritura y color de texto en github  :shipit:
 
 [Signos en la escritura](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
