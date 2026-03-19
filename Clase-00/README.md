@@ -26,7 +26,7 @@ Hoy hablamos sobre los objetos y repasamos el texto $${\color{red}"La-Tercera-Me
  - ***Dulcero***
  - ***Sabio en crecimiento***
 
-## - [ ] Revisar el texto "La estetica como cosmologia"
+## - [x] Revisar el texto "La estetica como cosmologia"
 
  Parrafos que les gustaron, palabras que no entendieron, reflexion sobre lo que leyeron
 
