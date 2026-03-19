@@ -1,6 +1,8 @@
 # Clase 01
 
-## Apuntes de la clase
+## Apuntes de la clase.
+
+## Aprendimos a poner imagenes.
 
 ## $${\color{red}Muejeje}$$
 
