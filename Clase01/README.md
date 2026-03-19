@@ -2,6 +2,6 @@
 
 ## Apuntes de la clase
 
-## $${\color{yellow}Muejeje}$$
+## $${\color{red}Muejeje}$$
 
 ![Gato_riendo](./Gato.jpg)
