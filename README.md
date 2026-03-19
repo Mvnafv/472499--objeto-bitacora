@@ -8,4 +8,3 @@ Con el fin de subir mis trabajos de la universidad y sus avances.
 [Signos en la escritura](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Color del texto](https://github-com.translate.goog/orgs/community/discussions/31570?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
-
