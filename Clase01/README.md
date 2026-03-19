@@ -5,7 +5,7 @@ Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para 
 
 ## Tarea 2 Objetos y 10 Cualidades por cada objeto
 
-## $${\color{purple}Primer_Objeto}$$
+## $${\color{purple}PrimerObjeto}$$
 
 ## $${\color{purple}Objeto}$$
 
