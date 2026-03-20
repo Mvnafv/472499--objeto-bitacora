@@ -29,7 +29,17 @@ Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para 
 - Reproductor
 - Grabadora
 - Conexion social
-- Costoso 
+- Costoso
+
+## [x] Hablar y observar las obras de Mateo Cereda y Gabriela Inostroza
+
+### $${\color{green}Matias}$$
+
+
+
+### $${\color{pink}Gabriela}$$
+
+
 
 ## Aprendimos a poner imagenes.
 
