@@ -10,7 +10,7 @@ Con el fin de subir mis trabajos de la universidad y sus avances.
 [Color del texto](https://github-com.translate.goog/orgs/community/discussions/31570?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 Asi me siento hoy Jueves 26 Marzo.
-## $${\color{red}Dormi demas en la tarde}$$
+## $${\color{red}Dormi-demas-en-la-tarde}$$
 
 ![](./Yio.jpg)
 
