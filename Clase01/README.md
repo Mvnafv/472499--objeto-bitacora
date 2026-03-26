@@ -1,4 +1,4 @@
-# Clase 01
+# Clase-01
 
 ## Apuntes de la clase.
 Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para entender el ramo.
