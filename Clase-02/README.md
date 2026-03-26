@@ -10,7 +10,7 @@
 
 - ENLACE [Processing](https://processing.org/examples).
 
-  ### Codigo usado en processing.
+### Codigo usado en processing.
 
   ```Processing
   int tamano = 50;
@@ -41,7 +41,43 @@
   }
   //frameCount
   ```
+### Codigo modificado por mi 
+```Processing
 
+int[] temperatura = {10, 40, 15, 17, 30, 28, 26};
+int tamano = 50;
+int i = 0; //Iniciador
+
+
+void setup(){
+  size(900,900);
+  background(0);
+  frameRate(60); // Son los fps 
+}
+
+void draw(){
+  
+  {circle(450,450,mouseY);
+ fill(255, 255, 255);}
+ {circle(450,450,150);
+ fill(255, 255, 255);}
+  {tamano = temperatura[i];
+  println(frameCount);
+  println(" - ");
+  println(tamano);
+  circle(mouseX,mouseY,tamano);
+ fill(#FF0000);
+ stroke(3);
+ 
+ i = i + 1;
+ if (i > 6){
+ i = 0;
+ }
+}
+
+}
+
+```
 
 > [!WARNING]
 > ENLACE [SECRETO](https://pbs.twimg.com/media/G3pBT_PXkAAyVDC?format=jpg&name=medium). :shipit:
