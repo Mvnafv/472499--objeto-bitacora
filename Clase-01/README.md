@@ -5,7 +5,7 @@ Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para 
 
 ## [x] Tarea 2 Objetos y 10 Cualidades por cada objeto
 
-## $${\color{purple}Computador}$$
+## $${\color{purple}Computador}$$ <img src="./Setup.jfif" width="200" height="200">
 - Colores
 - Piezas
 - Vidrio
@@ -18,7 +18,7 @@ Hablamos sobre el libro que nos mandaron a leer y entramos mas en contaxto para 
 - Energia
 - Mediano
 
-## $${\color{purple}Celular}$$
+## $${\color{purple}Celular}$$ <img src="./Celular.jfif" width="200" height="300">
 - Negro
 - Fragil
 - Camara
@@ -45,10 +45,11 @@ Lo que es algo contradictorio la verdad ya que es el unico que le da a todos com
 Aunque al principio me costo entenderlo la verdad, me gusto mucho el uso del sonido al cargar el poema que enseñaba en el lcd. 
 No logro ver la metafora o la vision pero si me gusto y ver el vidrio con el diseño de saltamontes fue una buena decoracion para mi.
 
-## Aprendimos a poner imagenes.
+## Aprendimos a poner imagenes y gif.
 
-## $${\color{red}Muejeje}$$
+## $${\color{red}Muejeje}$$    
 
-![Gato_riendo](./Gato.jpg)
+<img src="./Gato.jpg" width="200" height="200"> 
 
-![test gif](./Gatohabla.gif)
+## $${\color{red}Blablabla}$$
+<img src="./Gatohabla.gif" width="200" height="200">
