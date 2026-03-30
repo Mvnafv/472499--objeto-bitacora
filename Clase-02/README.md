@@ -121,8 +121,9 @@ void keyPressed()
   }
 }
 ```
-<img src="./Colordeunamor.png" width="300" height="300">
 
+### Carta de un color 
+<img src="./Colordeunamor.png" width="300" height="300">
 
 > [!WARNING]
 > ENLACE [SECRETO](https://pbs.twimg.com/media/G3pBT_PXkAAyVDC?format=jpg&name=medium). :shipit:
