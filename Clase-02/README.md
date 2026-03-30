@@ -41,43 +41,88 @@
   }
   //frameCount
   ```
-### Codigo modificado por mi 
+### Codigo que me encanto
 ```Processing
 
-int[] temperatura = {10, 40, 15, 17, 30, 28, 26};
-int tamano = 50;
-int i = 0; //Iniciador
+int maxHeight = 40;
+int minHeight = 20;
+int letterHeight = maxHeight; // Height of the letters
+int letterWidth = 20;          // Width of the letter
 
+int x = -letterWidth;          // X position of the letters
+int y = 0;                      // Y position of the letters
 
-void setup(){
-  size(900,900);
-  background(0);
-  frameRate(60); // Son los fps 
+boolean newletter;              
+
+int numChars = 26;      // There are 26 characters in the alphabet
+color[] colors = new color[numChars];
+
+void setup() {
+  size(600, 600);
+  noStroke();
+  colorMode(HSB, numChars);
+  background(numChars/2);
+  // Set a hue value for each key
+  for(int i = 0; i < numChars; i++) {
+    colors[i] = color(i, numChars, numChars);    
+  }
 }
 
-void draw(){
-  
-  {circle(450,450,mouseY);
- fill(255, 255, 255);}
- {circle(450,450,150);
- fill(255, 255, 255);}
-  {tamano = temperatura[i];
-  println(frameCount);
-  println(" - ");
-  println(tamano);
-  circle(mouseX,mouseY,tamano);
- fill(#FF0000);
- stroke(3);
- 
- i = i + 1;
- if (i > 6){
- i = 0;
- }
+void draw() {
+  if(newletter == true) {
+    // Draw the "letter"
+    int y_pos;
+    if (letterHeight == maxHeight) {
+      y_pos = y;
+      rect( x, y_pos, letterWidth, letterHeight );
+    } else {
+      y_pos = y + minHeight;
+      rect( x, y_pos, letterWidth, letterHeight );
+      fill(numChars/2);
+      rect( x, y_pos-minHeight, letterWidth, letterHeight );
+    }
+    newletter = false;
+  }
 }
 
-}
+void keyPressed()
+{
+  // If the key is between 'A'(65) to 'Z' and 'a' to 'z'(122)
+  if((key >= 'A' && key <= 'Z') || (key >= 'a' && key <= 'z')) {
+    int keyIndex;
+    if(key <= 'Z') {
+      keyIndex = key-'A';
+      letterHeight = maxHeight;
+      fill(colors[keyIndex]);
+    } else {
+      keyIndex = key-'a';
+      letterHeight = minHeight;
+      fill(colors[keyIndex]);
+    }
+  } else {
+    fill(0);
+    letterHeight = 10;
+  }
 
+  newletter = true;
+
+  // Update the "letter" position
+  x = ( x + letterWidth ); 
+
+  // Wrap horizontally
+  if (x > width - letterWidth) {
+    x = 0;
+    y+= maxHeight;
+  }
+
+  // Wrap vertically
+  if( y > height - letterHeight) {
+    y = 0;      // reset y to 0
+  }
+}
 ```
+
+
 
 > [!WARNING]
 > ENLACE [SECRETO](https://pbs.twimg.com/media/G3pBT_PXkAAyVDC?format=jpg&name=medium). :shipit:
