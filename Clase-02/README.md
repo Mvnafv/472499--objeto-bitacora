@@ -123,7 +123,7 @@ void keyPressed()
 ```
 
 ### $${\color{pink}Carta-de-un-color}$$ 
-<img src="./Colordeunamor.png" width="300" height="300">
+<img src="./Colordeunamor.png" width="300" height="600">
 
 > [!WARNING]
 > ENLACE [SECRETO](https://pbs.twimg.com/media/G3pBT_PXkAAyVDC?format=jpg&name=medium). :shipit:
