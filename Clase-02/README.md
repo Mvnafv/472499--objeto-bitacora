@@ -122,7 +122,7 @@ void keyPressed()
 }
 ```
 
-### Carta de un color 
+### $${\color{pink}Carta-de-un-color}$$ 
 <img src="./Colordeunamor.png" width="300" height="300">
 
 > [!WARNING]
