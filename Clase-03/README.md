@@ -20,4 +20,6 @@ Nos enseño una pagina de datos global, un repositorio donde estan muchos datos 
 ### [Pagina de datos](https://open-meteo.com/en/docs)
 
 ### [Pagina IA](https://claude.ai/onboarding)
+
 ### $${\color{yellow}Pregunta ayuda}$$ 
+(quiero darte una tabla en csv de gps y quiero que me hagas una visualizacion sencilla de ese recorrido en processing)
