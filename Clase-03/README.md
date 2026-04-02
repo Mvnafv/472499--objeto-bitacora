@@ -19,3 +19,5 @@ Nos enseño una pagina de datos global, un repositorio donde estan muchos datos 
 
 ### [Pagina de datos](https://open-meteo.com/en/docs)
 
+### [Pagina Ia](https://claude.ai/onboarding)
+### $${\color{yellow}Pregunta ayuda}$$ 
