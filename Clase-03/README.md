@@ -15,6 +15,7 @@ Nos explico y enseño como se mapea en mapas junto con una pagina para visualiza
 
 Nos enseño una pagina de datos global, un repositorio donde estan muchos datos ambientales que podemos usar.
 
+### [Visualizacion de mapa](https://www.google.com/maps/d/u/0/?hl=es)
 
-## [Pagina de datos](https://open-meteo.com/en/docs)
+### [Pagina de datos](https://open-meteo.com/en/docs)
 
