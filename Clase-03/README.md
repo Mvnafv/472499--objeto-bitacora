@@ -2,7 +2,7 @@
 
 Pequeña informacion sobre como funciona el GPS  <img src="./Gps.jfif" width="100" height="200">
 
-## Apuntes
+## $${\color{yellow}Apuntes}$$ 
 
 Nos explico y enseño el uso de la aplicacion que nos dio la clase pasada.
 
