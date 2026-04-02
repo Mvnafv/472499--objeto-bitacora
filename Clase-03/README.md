@@ -1,6 +1,6 @@
 # Clase online
 
-Pequeña informacion sobre como funciona el GPS
+Pequeña informacion sobre como funciona el GPS  <img src="./Gps.jfif" width="200" height="200">
 
 ## Apuntes
 
