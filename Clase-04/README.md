@@ -1,6 +1,7 @@
 # Apuntes de clase
 
 - Elegir entre datos cuantitativos o cualitativos para hacer un trabajo de una semana.
+- Repaso de la clase pasada que fue online para poder comprender mejor sobre lo pasado y trabajar en el programa. 
 
 
 ## Tabajo para la proxima semana (Ante Proyecto)
@@ -10,5 +11,6 @@
 
 ### Definir un objeto para estudiar y analizar datos
 
-Objeto: 
-Datos seleccionados del objetos: 
+### $${\color{red}Objeto}$$ :
+### $${\color{pink}Datos}$$ :
+
