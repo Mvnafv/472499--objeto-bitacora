@@ -12,6 +12,10 @@ Con el fin de subir mis trabajos de la universidad y sus avances.
 Asi me siento hoy Jueves 26 Marzo.
 ## $${\color{red}Dormi-demas-en-la-tarde}$$
 
-![](./Yio.jpg)
+<img src="./Yio.jpg" width="200" height="200">
+
+### Este semestre esta siendo muy estresante
+
+<img src="./Nooo.jpg" width="300" height="300">
 
 
