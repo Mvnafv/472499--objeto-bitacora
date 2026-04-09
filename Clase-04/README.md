@@ -4,7 +4,7 @@
 - Repaso de la clase pasada que fue online para poder comprender mejor sobre lo pasado y trabajar en el programa. 
 
 
-<img src="./Tabien.jpg" width="200" height="200">
+<img src="./Tabien.jpg" width="250" height="250">
 
 ## Tabajo para la proxima semana (Ante Proyecto) 
 - Buscar un objeto definido
