@@ -13,6 +13,6 @@
 
 ### Definir un objeto para estudiar y analizar datos
 
-### $${\color{red}Objeto}$$ :
+### $${\color{red}Objeto}$$ : Flores (Dahlia pompon, Aloe polyphylla, Romanesco)
 ### $${\color{pink}Datos}$$ :
 
