@@ -13,6 +13,6 @@
 
 ### Definir un objeto para estudiar y analizar datos
 
-### $${\color{red}Objeto}$$ : Flores (Dahlia pompon, Aloe polyphylla, Romanesco)
-### $${\color{pink}Datos}$$ :
+### $${\color{red}Objeto}$$ : Cancion ()
+### $${\color{pink}Datos}$$ : Utilizar las mediciones de los bajos, altos y demas para crear visualizaciones mediante un programa
 
