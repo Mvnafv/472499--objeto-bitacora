@@ -13,6 +13,6 @@
 
 ### Definir un objeto para estudiar y analizar datos
 
-### $${\color{red}Objeto}$$ : Cancion ()
+### $${\color{red}Objeto}$$ : Cancion (Sexy Eyes. S3rl Remix)
 ### $${\color{pink}Datos}$$ : Utilizar las mediciones de los bajos, altos y demas para crear visualizaciones mediante un programa
 
