@@ -17,3 +17,10 @@
 ### $${\color{pink}Datos}$$ : Utilizar las mediciones de los bajos, altos y demas para crear visualizaciones mediante un programa.
 ### Las mediciones espesificas son: Low, Mid, high, Kick, Snare y Rythm.
 
+#### Por qué los colores seleccionados?
+Los colores que elegi para mi trabajo es una mezcla de la luz y la sombra (Blanco y Negro) y uno de mis colores favorito que viene siendo el rojo ya que convina muy bien con el negro.
+#### Son coherentes con mi base de datos?
+
+#### Refuerza esa informacion o la dislocan?
+
+#### Aprendo algo nuevo sobre la base de datos con la visualizacion?
