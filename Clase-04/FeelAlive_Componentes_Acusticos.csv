@@ -1,0 +1,11 @@
+#,Componente,Valor (0-100),Nivel,Descripcion
+1,Energia,97,Muy alta,Produccion explosiva tipica del Happy Hardcore; kicks agresivos y drop poderoso
+2,Intensidad,94,Muy intensa,Dinamica comprimida distorsion controlada drops de alta densidad sonora
+3,Tempo (BPM),90,~170-175 BPM,BPM normalizado a escala 100. Tempo real aprox. 170-175 BPM caracteristico del subgenero
+4,Bailabilidad,82,Alta,Ritmo constante y predecible; ideal para pistas de baile rave
+5,Valencia (mood),78,Positiva/Euforica,Letras y melodia transmiten euforia y alegria; mood ascendente
+6,Popularidad,58,Media-nicho,Relevante dentro de la comunidad Nightcore/Hardcore; menos mainstream
+7,Vivacidad,22,Baja,Grabacion de estudio; sin audiencia ni ambiente en vivo detectado
+8,Hablado,12,Muy bajo,Voz melodica de IgikoPop; casi sin elementos de rap o spoken word
+9,Instrumentalidad,8,Muy baja,Cancion con voz principal; IgikoPop canta durante gran parte del tema
+10,Acusticidad,3,Casi nula,Produccion 100% electronica; sin instrumentos acusticos
