@@ -1,6 +1,8 @@
-### Clase de hoy 
+### Clase de hoy
 
 Se revizaron los trabajos
+
+ <img src="./Revicion.jpg" width="150" height="150">
 
 #### Archivo a revisar por el profe como artista referente. (mil revoluciones por minuto)
 
