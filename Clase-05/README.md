@@ -1,3 +1,8 @@
 ### Clase de hoy 
 
 Se revizaron los trabajos
+
+#### Archivo a revisar por el profe como artista referente. (mil revoluciones por minuto)
+
+### Proximo trabajo a realizar o tener en cuenta. 
+Usar el audio de algun video o varios para crear una visualizacion. hacer chocar 2 mundo para generar interesante o resaltar entre ambos un objeto nuevo.
