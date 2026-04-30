@@ -2,8 +2,7 @@
 
 <img src="./Ahhh.jfif" width="250" height="250">
 
-#### Por lo que estaba investigando de la pagina 
-( [Hambrehambrehambre](https://hambrehambrehambre.com) ).
+#### Por lo que estaba investigando de la pagina ( [Hambrehambrehambre](https://hambrehambrehambre.com) ).
 #### Es una pagina creada para vender Fanzines de diferentes artistas, cada uno con un proposito diferente y asi mismo estos pueden estar en español o en ingles como mencionan a un lado de cada fanzine. Donde informan del autor, año, edicion, impresion y el idioma. Tambien al lado izquierdo un breve resumen en español e ingles de que trata este fanzine. 
 #### Tambien revisando la pagina tienen los precios en dolares, informacion de la creacion de la iniciativa editorial. El año que se construyo que fue 2019 y como fue tomando fuerza con talleres y experiencias de arte comunitarias.
 #### Tambien el detalle de las ferias de arte donde han estado, entrevistas que han tenido y lugares en el mundo donde los pueden encontrar que son (Chile, Mexico, Argentina, Estados unidos y Alemania)
