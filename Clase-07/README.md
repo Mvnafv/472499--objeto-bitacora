@@ -9,3 +9,5 @@
 #### Tambien el detalle de las ferias de arte donde han estado, entrevistas que han tenido y lugares en el mundo donde los pueden encontrar que son (Chile, Mexico, Argentina, Estados unidos y Alemania)
 #### Revisando tambien tienen un enlace para ver los proyectos que tienen y un correo por si quieren participar o trabajar con ellas.
 #### Dejando de lado la informacion que nos entregan, me gusta el como distribuyeron la pagina para volverla llamativa. Como al inicio salen los Fanzine en fila moviendose para enseñar una pequeña visual de ellos, de fondo un color neutral y comodo para los ojos, decorado con cortes de papel de colores y su logo dando vueltas por toda la pantalla haciendo un pequeño juego visual con este. Tambien su forma destacar los Fanzines nuevos con un Slice de 2 lapices encerrando la palabra NEW que llama la atencion con el movimiento. Y como ultimo detalle que quiero mencionar es como en el final de las paginas o almenos de 2 que revise a fondo tienen 2 o 1 B que se pueden mover o que estas te siguen el cursor mientras lo mueves por la pagina.
+
+## Apuntes de la clase
