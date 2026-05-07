@@ -9,4 +9,15 @@
 #### Revisando tambien tienen un enlace para ver los proyectos que tienen y un correo por si quieren participar o trabajar con ellas.
 #### Dejando de lado la informacion que nos entregan, me gusta el como distribuyeron la pagina para volverla llamativa. Como al inicio salen los Fanzine en fila moviendose para enseñar una pequeña visual de ellos, de fondo un color neutral y comodo para los ojos, decorado con cortes de papel de colores y su logo dando vueltas por toda la pantalla haciendo un pequeño juego visual con este. Tambien su forma destacar los Fanzines nuevos con un Slice de 2 lapices encerrando la palabra NEW que llama la atencion con el movimiento. Y como ultimo detalle que quiero mencionar es como en el final de las paginas o almenos de 2 que revise a fondo tienen 2 o 1 B que se pueden mover o que estas te siguen el cursor mientras lo mueves por la pagina.
 
-## Apuntes de la clase
+## Tarea de la clase
+
+#### Objetos 
+- Mis Lentes 
+- Papel (Concepto)
+- Anillos (Concepto)
+#### Carta 
+- Dalo vuelta
+### Resultado
+
+Segun los datos recien formados cada objeto mencionado tiene materialidad diferente por esta razon lo siguiente que hare es crea estos objetos mencionados pero intercambiando sus materialidades. Anillos de cristal, lentes de papel y/o metal, papel de metal o cristal. 
+El metal como puede ser conformado de lo siguiente hay mas variedad. (Plata, oro, bronce, cobre, plomo y aluminio)
