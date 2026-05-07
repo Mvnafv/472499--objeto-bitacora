@@ -43,3 +43,9 @@ asi como tambien el material y la historia.
 <img src="./FotoWena.webp" width="250" height="250">
 
 - Sobre esta pintura tambien nos contaron pero en particular la puse porque me llamo la atencion lo abstracta que es, como uso los colores y la tecnica del pinceleado con oleo. como el fondo que parece ser negro aunque no es asi, tenia un tono de vino al mirar de cerca. daba mas potencial a los colores y la forma de la pintura. Que a lo personal senti que pinto un pajaro en caidaa que aunque no se nota mucho en la imagen en la parte de abajo que es la cabeza para mi, tenia una linea como si fuera el ojo del ave.
+
+## Encargo 
+
+### - Plantear la definicion del fanzine 
+### - Que espacio del fanzine nos interesa (Fuera del papel)
+### - Trabajar en conjunto con otra persona
