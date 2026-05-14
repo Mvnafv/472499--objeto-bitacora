@@ -1,4 +1,4 @@
-## Hoy fue dia de salida
+ ## Hoy fue dia de salida
 
 #### Apuntes
 
@@ -52,8 +52,16 @@ asi como tambien el material y la historia.
 
 #### Definicion: Un Fanzine es una forma y/o manera de exprecion que puede ser utilizada de muchas maneras. Por ejemplo la manera que lo utilizare yo, en donde realizare una serie de datos y dibujos para poder regalarselo a mi pareja. Como esa manera tambien existen mas, ya sea para algun trabajo, publicidad, juego, relajacion, etc. Su formato no es prioritario que sea de papel, puede ser plastico, vidrio, placas de metal. Para mi lo importante en ese sentido es que el Fanzine sea legible y entendible. Los colores dependen de la manera que uno hace el Fanzine para que pueda ser llamativo y complemente con la letra, dibujo o collage. 
 
+<img src="./Lamina Vidrio Claro 6MM.jpg" width="150" height="250">
+<img src="./Plastico.jpg" width="150" height="250">
+<img src="./Aluminum Sheet.jpg" width="150" height="250">
+
 #### Que nos espacio nos interesa: Dentro de lo que es un fanzine y lo que yo puedo entender. me interesa su formate flexible que tiene y los muchos usos que se le pueden dar. En mi caso como lo comente antes y en la visita, lo utilizaria para realizar regalos amorosos.
 
 #### Trabajo a realizar: Para este trabajo lo hare individualmente por lo tanto mi acompañante elegido fue mi pareja. Aun sigo desarrollando el concepto o trabajo pero tengo unas ideas que dandole tiempon puden formar algo. Manejando datos de mi pareja la idea vaga es utilizar su manera de trabajar cuando estuvo en la universidad, Ya que trabajaba respecto a la muerte y la tarxidermia. utilizar datos respectivos para crear alguna visualizacion o alguna obra. Aun sigue en proceso pero las ideas fluyen dispersas. 
+
+<img src="./Muestra.jpg" width="150" height="250">
+<img src="./Muestra2.jpg" width="150" height="250">
+<img src="./Muestra3.jpg" width="150" height="250">
 
 #### Fanzine de regalo: Para el fanzine que se regalara a las integrantes de HambreHambreHambre estaba pensando en alguna interpretacion o poemas seleccionados para pasarlos al material que aun sigo eliguiendo. Ya que tengo ideas de utilizar placas de metal, tipos de papel, vidrio y piel falsa. Todo aun sigue en proceso igual pero ya la idea esta algo formada. 
