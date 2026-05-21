@@ -4,7 +4,7 @@
 
 # AVANCE
 
-#### Personas cercanas:
+#### Personas cercanas: La gran mayoria a quienes le pregunte respecto a su opinion del desvanecimiento me comentan, que uno no se desvanece se mantiene en la memoria y el corazon de la generaciones. Tambien por su creencia que uno al morir no se desvanece, si no que pasa por un camino de luz en donde vuelve a nacer y comienza una nueva vida dejando todo atras.
 
 #### Mariel:
 
