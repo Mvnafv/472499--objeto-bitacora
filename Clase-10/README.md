@@ -20,7 +20,7 @@
 
 #### Se utilizara laminas de hielo que tienen buena esencia de la representacion del desvanecimiento que se aborda en el trabajo y en la lamina estara escrita la letra de la cancion (Gracias a la vida - Violeta Parra)
 
-## Boceto de obra
+# Boceto de obra
 
 <img src="./Boceto objeto.jpg" width="300" height="250"> 
 
