@@ -4,9 +4,7 @@
 
 # AVANCE
 
-### Comentarios. 
-
-#### Personas:
+#### Personas cercanas:
 
 #### Mariel:
 
