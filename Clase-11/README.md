@@ -1,6 +1,6 @@
 # Anteproyecto.
 
-Este trabajo sera creado como un fanzine de hielo. Placas de hielo con la letra de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
+Este trabajo sera creado como un fanzine de hielo. Laminas de hielo con la letra de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
 
 ### Datos. 
 
