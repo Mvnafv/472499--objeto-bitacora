@@ -1,6 +1,12 @@
 # Anteproyecto.
 
-Este trabajo sera creado como un fanzine de hielo. Laminas de hielo con la letra de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
+Este trabajo sera creado como un fanzine. Este estara creado con letras de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
+### Fotografias
+
+<img src="./Prueba1.jpg" width="300" height="300" >
+<img src="./Prueba2.jpg" width="300" height="300" >
+<img src="./Prueba3.jpg" width="300" height="300" >
+<img src="./Prueba4.jpg" width="300" height="350" >
 
 ### Datos. 
 
@@ -8,31 +14,8 @@ La gran mayoria de las personas entrevistadas me hacian llegar al mismo punto fi
 
 ### Trabajo. 
 
-El trabajo consiste en crear o comprar laminas de hielo con un grozor especifico para poder escribir en ellas las letras de la cancion. Buscar un lugar donde su frio pueda mantenerse bien pero a la vez lo suficiente que permita el derretirse. Todo esto para enseñar conceptualmente el desvanecimiento del alma mientras que al leer la cancion enfoque en la gratitud hacia la vida por todo lo pasado, logrado y tenido. 
+El trabajo 
 
-### Letra de la cancion a usar
-
-```
-Gracias a la vida que me ha dado tanto.
-Me ha dado el sonido y el abecedario
-con él las palabras que pienso y declaro
-madre, amigo, hermano, y luz alumbrando
-la ruta del alma del que estoy amando.
-
-Gracias a la vida que me ha dado tanto.
-Me ha dado la marcha de mis pies cansados;
-con ellos anduve ciudades y charcos,
-playas y desiertos, montañas y llanos,
-y la casa tuya, tu calle, tu patio.
-
-Gracias a la vida que me ha dado tanto.
-Me ha dado la risa y me ha dado el llanto,
-así yo distingo dicha de quebranto,
-los dos materiales que forman mi canto
-y el canto de ustedes que es el mismo canto,
-y el canto de todos que es mi propio canto.
-Gracias a la vida que me ha dado tanto.
-```
 
 ## Boceto de obra
 <p align="center">
