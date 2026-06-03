@@ -1,6 +1,6 @@
 # Anteproyecto.
 
-Este trabajo sera creado como un fanzine. Este estara creado con letras de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
+Este trabajo sera creado como un fanzine. Este estara creado con la documentacion de hielos con unas letras de la cancion de Violeta Parra (Gracias a la vida). Tomando por una parte mi investigacion sobre la muerte (El desvanecimiento del alma). Por el otro lado usando la manera que Violeta Parra tiene al escribir y cantar la cancion. Para esto investige con personas para ver como piensan sobre el desvanecimiento del alma respecto a la muerte.
 
 ### Datos. 
 
@@ -15,9 +15,7 @@ La gran mayoria de las personas entrevistadas me hacian llegar al mismo punto fi
 
 ### Trabajo. 
 
-El trabajo 
+El trabajo consiste en documentar el tiempo del hielo con palabras formando texto hechos de con letras de la cancion de violeta parra. Sacando foto de fragmento en donde el hielo esta nuevo y comience a derretirse con las palabras encima (Una letra para cada hielo). Todo esto para contradecir el desarrollo de la obra que se basa en el desvanecimiento de la letra y hielo para mantenerlo vivo dentro del Fanzine. 
 
+## Documentación
 
-## Boceto de obra
-<p align="center">
-<img src="./Boceto objeto.jpg" width="500" height="400" > 
