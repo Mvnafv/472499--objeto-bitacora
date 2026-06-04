@@ -17,5 +17,6 @@ La gran mayoria de las personas entrevistadas me hacian llegar al mismo punto fi
 
 El trabajo consiste en documentar el tiempo del hielo con palabras formando texto hechos de con letras de la cancion de violeta parra. Sacando foto de fragmento en donde el hielo esta nuevo y comience a derretirse con las palabras encima (Una letra para cada hielo). Todo esto para contradecir el desarrollo de la obra que se basa en el desvanecimiento de la letra y hielo para mantenerlo vivo dentro del Fanzine. 
 
-## Documentación
+## Documentación boceto
 
+<img src="./Boceto 1.jpg" width="300" height="400" ><img src="./Boceto 2.jpg" width="300" height="400" ><img src="./Boceto 3.jpg" width="300" height="400" >
