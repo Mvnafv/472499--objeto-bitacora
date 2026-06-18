@@ -9,4 +9,6 @@ A medida que el hielo se derrite, las palabras dejan de existir como texto legib
 
 ## Imagen de referencia del trabajo
 
-<img src="./Prototipo.jpg" width="300" height="400"  >
+<img src="./Prototipo.jpg" width="300" height="400"  > <img src="./Base.jpg" width="300" height="400"  >
+<img src="./Referente.jpg" width="300" height="400"  >
+
