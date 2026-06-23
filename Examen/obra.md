@@ -1,4 +1,4 @@
-# Título obra: Conservar la pérdida (Aun en Proceso)
+# Título obra: Conservar la pérdida
 
 ## Integrante: Manuel Alexis Fierro Valdes
 
