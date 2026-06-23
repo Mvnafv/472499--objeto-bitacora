@@ -15,3 +15,12 @@ A medida que el hielo se derrite, las palabras dejan de existir como texto legib
 <img src="./Referente.jpg" width="300" height="400"  >
 
 ## Imagen del trabajo
+
+ <img src="./Boceto0.webp" width="300" height="400"  >
+  <img src="./Boceto1.webp" width="300" height="400"  >
+   <img src="./Boceto2.webp" width="300" height="400"  >
+
+## Bocetos mas definido
+ 
+  <img src="./Boceto00.webp" width="300" height="400"  >
+  <img src="./Boceto01.webp" width="300" height="400"  >
